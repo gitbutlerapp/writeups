@@ -11,7 +11,7 @@ So we made snapshots called “[sessions](https://www.notion.so/gitbutler/Sessio
 However, we *still* want to save state and we would like to have an undo type functionality. So, instead of ripping out everything we were doing, let’s simplify the format to basically an operations log. Not unlike what JJ does:
 
 ![https://youtu.be/IySXs8i_V8Y?si=gbJXaVGb85NT4Ku1&t=997](https://camo.githubusercontent.com/7ce02fd19ee53f6fc07ff0a5ae74715988d9081dfde0bce3fe2034a0fe516f3a/68747470733a2f2f70617065722d6174746163686d656e74732e64726f70626f7875736572636f6e74656e742e636f6d2f735f413945333843413831424633453738353731454637433041344545344645363434443130454139303041453345414637423145434334363442324438354334375f313731313337393936373638305f436c65616e53686f742b323032342d30332d32352b61742b31362e31362e353332782e706e67)
-
+[my internal jj demo](https://youtu.be/IySXs8i_V8Y?si=gbJXaVGb85NT4Ku1&t=997)
 
 
 ## What we need to save
